@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimG233
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Java, Python, Discord.py, AWS, JS
-- 💞️ I’m looking to collaborate on brainstorming Discord Bot idea
+- 💞️ I’m looking to collaborate on planting potatoes on Mars (jk)
 - 📫 How to reach me: gaosh0830@gmail.com
 
 <!---
