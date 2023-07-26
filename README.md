@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TimG233
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java, Python, AWS, JS, planting techniques on Mars
+- 👋 Hi, I’m Tim.
+- 👀 I’m interested in coding potatoes and burning Ubisoft servers.
+- 🌱 I’m currently learning planting techniques for potatoes on Mars (no ketchup pls when eating potatoes)
 - 💞️ I’m looking to collaborate on planting potatoes on Mars (jk)
 - 📫 How to reach me: gaosh0830@gmail.com
 
