@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on planting potatoes on Mars (jk)
 - 📫 How to reach me: gaosh0830@gmail.com
 
-<!---
-TimG233/TimG233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![TimG233's GitHub stats](https://github-readme-stats.vercel.app/api?username=timg233&theme=dracula&show_icons=true&count_private=true&hide_rank=true&hide=contribs,stars)
