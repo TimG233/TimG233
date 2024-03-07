@@ -3,8 +3,9 @@
 
   <b>Can stochastic parrots truly understand what they learn?</b><br>
   Reach out to me:
-  - `gaosh0830@gmail.com` (Not Preferred)
   - `Master_30` on Discord
+    - If you have an issue with Qiqi Bot, this is the fastest option to discuss with me.
+  - `gaosh0830@gmail.com` (Not Preferred)
   - Somewhere on Mars, planting potatoes
 
 </p>
